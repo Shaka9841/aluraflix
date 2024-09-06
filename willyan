@@ -9,8 +9,8 @@
         rel="stylesheet">
     <title>Guiminamflix</title>
 </head>
-
 <body>
+    
     <header>GUIMINAMFLIX</header>
 
     <section class="chamada">
